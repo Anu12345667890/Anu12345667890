@@ -29,7 +29,7 @@
     <tr>
       <td align="left"><span style="color: #FFD700;">🟡 C</span></td>
       <td align="left"><span style="color: #61DAFB;">🟢 C++</span></td>
-      <td align="left"><span style="color: #61DAFB;">🟢 CSS</span></td>
+      <td align="left"><span style="color: #61DAFB;">🟢 Python</span></td>
     </tr>
    
   </table>
